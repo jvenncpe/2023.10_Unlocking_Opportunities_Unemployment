@@ -1,7 +1,7 @@
 #### *Capstone Project: October 2023*
 
 <p align="center">
-<img src="https://github.com/jvenncpe/Unlocking-Opportunities-Unemployment/assets/35190918/b5a53714-ef02-4b17-8637-3932cec8bb30")/></p>
+<img src="https://github.com/jvenncpe/Unlocking-Opportunities-Unemployment/assets/35190918/b5a53714-ef02-4b17-8637-3932cec8bb30"/></p>
 
 # Unlocking Opportunities: A Data-Driven Path to Alleviate Unemployment in the Philippines.
 
